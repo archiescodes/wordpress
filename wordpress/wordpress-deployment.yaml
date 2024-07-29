@@ -29,6 +29,7 @@ spec:
         ports:
         - containerPort: 80
 
+        
 ---
 # wordpress/wordpress-service.yaml
 apiVersion: v1
